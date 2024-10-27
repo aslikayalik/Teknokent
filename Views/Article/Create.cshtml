@@ -1,0 +1,64 @@
+﻿@model Article
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Yazı Oluşturma Sayfası</h1>
+
+<h4>Yazı</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label">Başlık</label>
+                <span asp-validation-for="Title" class="text-danger field-validation-error"></span>
+
+                <input asp-for="Title" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="Category" class="control-label">Kategori</label>
+                <span asp-validation-for="Category" class="text-danger field-validation-error"></span>
+                <input asp-for="Category" class="form-control" />
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="Label" class="control-label">Etiket</label>
+                <span asp-validation-for="Label" class="text-danger field-validation-error"></span>
+                <input asp-for="Label" class="form-control" />
+               
+            </div>
+          
+            <div class="form-group">
+                <label asp-for="Yorumlama" class="control-label">Yorumlama</label>
+                <span asp-validation-for="Yorumlama" class="text-danger field-validation-error"></span>
+                <input asp-for="Yorumlama" class="form-control" />
+            </div>
+                <div class="form-group">
+                <label asp-for="Content" class="control-label">İçerik</label>
+                <input asp-for="Content" class="form-control" />
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Author" class="control-label">Yazar</label>
+                <span asp-validation-for="Author" class="text-danger field-validation-error"></span>
+                <input asp-for="Author" class="form-control" oninput="capitalizeFirstWord(this)" />
+                
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Ekle" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye dön</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

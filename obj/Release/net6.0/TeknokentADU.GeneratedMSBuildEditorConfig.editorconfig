@@ -1,0 +1,423 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Teknokent
+build_property.RootNamespace = Teknokent
+build_property.ProjectDir = C:\Users\kayal\OneDrive\Masaüstü\Teknokent\Teknokent\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kayal\OneDrive\Masaüstü\Teknokent\Teknokent
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Account/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Article/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Article/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Article/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/BoardOfMember/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRPZk1lbWJlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/BoardOfMember/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRPZk1lbWJlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/BoardOfMember/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRPZk1lbWJlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/BoardOfMember/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRPZk1lbWJlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/BoardOfMember/IndexE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRPZk1lbWJlclxJbmRleEUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/CampusPreliminaryAppForm/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcHVzUHJlbGltaW5hcnlBcHBGb3JtXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/CampusPreliminaryAppForm/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcHVzUHJlbGltaW5hcnlBcHBGb3JtXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/CampusPreliminaryAppForm/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcHVzUHJlbGltaW5hcnlBcHBGb3JtXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/CampusPreliminaryAppForm/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcHVzUHJlbGltaW5hcnlBcHBGb3JtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/CareerPosting/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZWVyUG9zdGluZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/CareerPosting/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZWVyUG9zdGluZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/CareerPosting/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZWVyUG9zdGluZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/CareerPosting/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZWVyUG9zdGluZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/CareerPosting/IndexE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZWVyUG9zdGluZ1xJbmRleEUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Company/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Company/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Company/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Company/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Company/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Company/IndexE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxJbmRleEUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Cv/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3ZcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Cv/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3ZcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Cv/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3ZcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Cv/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3ZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Event/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Event/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Event/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Event/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Faq/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFxXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Faq/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Faq/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Faq/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Faq/IndexE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFxXEluZGV4RS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/GeneralInformation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEluZm9ybWF0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/GeneralInformation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEluZm9ybWF0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/GeneralInformation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEluZm9ybWF0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/GeneralInformation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEluZm9ybWF0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/GeneralInformation/IndexE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEluZm9ybWF0aW9uXEluZGV4RS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Home/AdminPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pblBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Legislation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVnaXNsYXRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Legislation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVnaXNsYXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Legislation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVnaXNsYXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Legislation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVnaXNsYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Legislation/IndexE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVnaXNsYXRpb25cSW5kZXhFLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/ManagementOffice/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlbWVudE9mZmljZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/ManagementOffice/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlbWVudE9mZmljZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/ManagementOffice/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlbWVudE9mZmljZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/ManagementOffice/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlbWVudE9mZmljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/ManagementOffice/IndexE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlbWVudE9mZmljZVxJbmRleEUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/News/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/News/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/News/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Office/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Office/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Office/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Office/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmaWNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Project/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Project/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Project/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Project/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/RefereeRegistration/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlZVJlZ2lzdHJhdGlvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/RefereeRegistration/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlZVJlZ2lzdHJhdGlvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/RefereeRegistration/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlZVJlZ2lzdHJhdGlvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/RefereeRegistration/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlZVJlZ2lzdHJhdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Report/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Report/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Report/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Report/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Report/IndexE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEluZGV4RS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Shared/_Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Statistic/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Statistic/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Statistic/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Statistic/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Tto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Tto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Tto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Tto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kayal/OneDrive/Masaüstü/Teknokent/Teknokent/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qmsgjbv5m2

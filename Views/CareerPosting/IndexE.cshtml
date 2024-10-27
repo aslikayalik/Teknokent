@@ -1,0 +1,87 @@
+﻿@model IEnumerable<CareerPosting>
+
+@{
+    ViewData["Title"] = "IndexE";
+    Pager pager = new Pager();
+
+    int pageNo = 0;
+
+    if (ViewBag.Paper != null)
+    {
+        pager = ViewBag.Paper;
+        pageNo = pager.CurrentPage;
+    }
+}
+
+<h1>IndexE</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CompanyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Position)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Content)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImgPath)
+            </th>
+    
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            string imgPath = item.ImgPath;
+            string relativePath = imgPath;
+            if (imgPath.Contains("\\wwwroot\\"))
+            {
+                relativePath = imgPath.Substring(imgPath.IndexOf("\\wwwroot\\") + 9).Replace("\\", "/");
+            }
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CompanyName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+                <td>
+                    <img src="@Url.Content("~/" + relativePath)" alt="Logo" style="max-width: 100px; max-height: 100px;" />
+                </td>
+
+          
+        </tr>
+}
+    </tbody>
+</table>
+
+@if ((int)ViewBag.TotalPages > 1)
+{
+    <ul class="pagination justify-content-end">
+        @for (var p = 1; p <= (int)ViewBag.TotalPages; p++)
+        {
+            <li class="page-item @(p == (int)ViewBag.CurrentPage ? "active" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = p })">@p</a>
+            </li>
+        }
+    </ul>
+}

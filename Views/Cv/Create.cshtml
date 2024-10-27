@@ -1,0 +1,89 @@
+﻿@model Cv
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>İş Başvurusu ekleme sayfası</h1>
+
+<h4>İş Başvuru Sayfası</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <span asp-validation-for="Name" class="text-danger field-validation-error"></span>
+                <input asp-for="Name" class="form-control" oninput="capitalizeFirstWord(this)" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label"></label>
+                <span asp-validation-for="Surname" class="text-danger field-validation-error"></span>
+                <input asp-for="Surname" class="form-control" oninput="toUpperCase(this)"  />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="Position" class="control-label"></label>
+                <span asp-validation-for="Position" class="text-danger field-validation-error"></span>
+                <input asp-for="Position" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <span asp-validation-for="Email" class="text-danger field-validation-error"></span>
+                <input asp-for="Email" class="form-control" />
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneNumber" class="control-label"></label>
+                <span asp-validation-for="PhoneNumber" class="text-danger field-validation-error"></span>
+                <input asp-for="PhoneNumber" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <span asp-validation-for="Description" class="text-danger field-validation-error"></span>
+                <input asp-for="Description" class="form-control" />
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="AddTime" class="control-label"></label>
+                <span asp-validation-for="AddTime" class="text-danger field-validation-error"></span>
+                <input asp-for="AddTime" class="form-control" />
+                
+            </div>
+         
+
+            <div class="col-md-10">
+                <p>Dosyayı seçiniz : </p>
+                <span asp-validation-for="FilePath" class="text-danger field-validation-error"></span>
+                <input type="file" name="file" />
+            </div>
+           
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+
+            </div>
+            
+        </form>
+
+        @if(ViewBag.Message != null)
+        {
+            <div class="alert" style="margin-top:26px">
+                @ViewBag.Message
+                </div>
+        }
+    </div>
+</div>
+ @if (User.IsInRole("Admin"))
+{
+    <div>
+        <a asp-action="Index">Listeye dön</a>
+    </div>
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

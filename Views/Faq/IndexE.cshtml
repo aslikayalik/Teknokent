@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Faq>
+
+@{
+    ViewData["Title"] = "IndexE";
+}
+
+<h1>IndexE</h1>
+
+<style>
+    .table {
+        margin-top: 20px;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    }
+
+        .table th {
+            background-color: #f8f9fa;
+        }
+
+        .table td, .table th {
+            padding: 15px;
+            vertical-align: middle;
+        }
+</style>
+
+<div class="container">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Question)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Answer)
+                </th>
+              
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Question)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Answer)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\wwwroot",
+    "\\wwwroot\\fonts",
+    "\\wwwroot\\js",
+    "\\wwwroot\\lib",
+    "\\wwwroot\\lib\\bootstrap",
+    "\\wwwroot\\lib\\bootstrap\\dist",
+    "\\wwwroot\\lib\\bootstrap\\dist\\css",
+    "\\wwwroot\\vendor",
+    "\\wwwroot\\vendor\\aos"
+  ],
+  "SelectedNode": "\\Teknokent.csproj",
+  "PreviewInSolutionExplorer": false
+}

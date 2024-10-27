@@ -1,0 +1,115 @@
+﻿@using System.ComponentModel.DataAnnotations
+@using Teknokent.Data.Enums
+@model RefereeRegistration
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Hakem Kayıt Düzenleme Sayfası</h1>
+
+<h4>Hakem Kayıt </h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <span asp-validation-for="Name" class="text-danger field-validation-error"></span>
+                <input asp-for="Name" class="form-control" />
+            
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label"></label>
+                <span asp-validation-for="Surname" class="text-danger field-validation-error"></span>
+                <input asp-for="Surname" class="form-control" />
+             
+            </div>
+            <div class="form-group">
+                <label asp-for="TC" class="control-label"></label>
+                <span asp-validation-for="TC" class="text-danger field-validation-error"></span>
+                <input asp-for="TC" class="form-control" />
+            
+            </div>
+            <div class="form-group">
+                <label asp-for="Position" class="control-label"></label>
+                <span asp-validation-for="Position" class="text-danger field-validation-error"></span>
+                <input asp-for="Position" class="form-control" />
+           
+            </div>
+            <div class="form-group">
+                <label asp-for="Job" class="control-label"></label>
+                <span asp-validation-for="Job" class="text-danger field-validation-error"></span>
+                <input asp-for="Job" class="form-control" />
+              
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <span asp-validation-for="Phone" class="text-danger field-validation-error"></span>
+                <input asp-for="Phone" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <span asp-validation-for="Email" class="text-danger field-validation-error"></span>
+                <input asp-for="Email" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="WorkPlace" class="control-label"></label>
+                <span asp-validation-for="WorkPlace" class="text-danger field-validation-error"></span>
+                <input asp-for="WorkPlace" class="form-control" />
+             
+            </div>
+            <div class="form-group">
+                <label asp-for="UniversityName" class="control-label"></label>
+                <span asp-validation-for="UniversityName" class="text-danger field-validation-error"></span>
+                <input asp-for="UniversityName" class="form-control" />
+              
+            </div>
+            <div class="form-group">
+                <label asp-for="BankName" class="control-label"></label>
+                <span asp-validation-for="BankName" class="text-danger field-validation-error"></span>
+                <input asp-for="BankName" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="IbanNo" class="control-label"></label>
+                <span asp-validation-for="IbanNo" class="text-danger field-validation-error"></span>
+                <input asp-for="IbanNo" class="form-control" />
+               
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Cmt, "Komisyon Üye Tipi")
+                <select asp-for="Cmt" class="form-control">
+                    @foreach (var value in Enum.GetValues(typeof(CommissionMemberType)))
+                    {
+                        var displayAttribute = typeof(CommissionMemberType).GetMember(value.ToString())[0]
+                        .GetCustomAttributes(typeof(DisplayAttribute), false)
+                        .SingleOrDefault() as DisplayAttribute;
+
+                        var displayName = displayAttribute != null ? displayAttribute.Name : value.ToString();
+
+                        <option value="@value">@displayName</option>
+                    }
+                    @Html.ValidationMessageFor(model => model.Cmt)
+                </select>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Kaydet" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye dön</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

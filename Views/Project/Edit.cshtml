@@ -1,0 +1,47 @@
+﻿@model Project
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Proje Düzenleme Sayfası</h1>
+
+<h4>Proje</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="ProjectName" class="control-label"></label>
+                <span asp-validation-for="ProjectName" class="text-danger field-validation-error"></span>
+                <input asp-for="ProjectName" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="CompleteDate" class="control-label"></label>
+                <span asp-validation-for="CompleteDate" class="text-danger field-validation-error"></span>
+                <input asp-for="CompleteDate" class="form-control" type="date" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="ProjectType" class="control-label"></label>
+                <span asp-validation-for="ProjectType" class="text-danger field-validation-error"></span>
+                <input asp-for="ProjectType" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Kaydet" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye dön</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

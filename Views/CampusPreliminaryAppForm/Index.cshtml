@@ -1,0 +1,113 @@
+﻿@model IEnumerable<CampusPreliminaryAppForm>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Ön Yerleşke Başvuru Formu Listesi</h1>
+
+<p>
+    <a asp-action="Create">Ön Yerleşke Başvuru Formu Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Surname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.hasCompany)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TitleCompany)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TaxNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TaxAdministration)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Campus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.wantSection)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.wantSpace)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.wantWorker)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.wantSupportWorker)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.wantOutOfScopeWorker)
+            </th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Surname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.hasCompany)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TitleCompany)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TaxNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TaxAdministration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Campus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.wantSection)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.wantSpace)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.wantWorker)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.wantSupportWorker)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.wantOutOfScopeWorker)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Düzenle</a> |
+           
+                <a asp-action="Delete" asp-route-id="@item.Id">Sil</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

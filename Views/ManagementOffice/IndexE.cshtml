@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ManagementOffice>
+
+@{
+    ViewData["Title"] = "IndexE";
+   
+}
+
+<h1 style="color: #007BFF; font-family: Arial, sans-serif; font-size: 2.5em; text-align: center;">Yönetim Ofisi</h1>
+
+
+<table class="table">
+
+    <tbody>
+@foreach (var item in Model) {
+
+            string imgPath = item.ImgPath;
+            string relativePath = imgPath;
+            if (imgPath.Contains("\\wwwroot\\"))
+            {
+                relativePath = imgPath.Substring(imgPath.IndexOf("\\wwwroot\\") + 9).Replace("\\", "/");
+            }
+
+        <tr>
+            <div>
+                <td>
+                    <img src="@Url.Content("~/" + relativePath)" alt="Pp" style="max-width: 100px; max-height: 100px;" />
+                </td>
+                </div>
+                <div>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+          
+                @Html.DisplayFor(modelItem => item.Surname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position)
+            </td>
+                </div>
+
+     
+        </tr>
+}
+    </tbody>
+</table>
+

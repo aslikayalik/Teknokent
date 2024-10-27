@@ -1,0 +1,82 @@
+﻿@model Company
+@{
+    ViewData["Title"] = "Details";
+    string imgPath = Model.ImgPath;
+    string relativePath = imgPath;
+    if (imgPath.Contains("\\wwwroot\\"))
+    {
+        relativePath = imgPath.Substring(imgPath.IndexOf("\\wwwroot\\") + 9).Replace("\\", "/");
+    }
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>@Model.CompanyName</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;300;400;600;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <style>
+        .company-logo {
+            display: block;
+            margin: 0 auto;
+            max-width: 400px;
+            max-height: 400px;
+        }
+
+        .description ul, .description li {
+            list-style: disc outside none;
+        }
+    </style>
+</head>
+<body>
+    <!-- Page Title -->
+    <section class="page-title">
+        <div class="auto-container">
+            <h1>@Model.CompanyName</h1>
+            <ul class="bread-crumb clearfix">
+                <li><a asp-action="IndexE">Firmalarımız</a></li>
+                <li>@Model.CompanyName</li>
+            </ul>
+        </div>
+    </section>
+    <!-- End Page Title -->
+
+    <div class="m-5">
+        <img class="company-logo" src="@Url.Content("~/" + relativePath)" alt="Şirket logosu" />
+
+        <div class="description">
+        </div>
+
+        <table class="table table-striped mt-2">
+            <tr>
+                <td>Firma Ünvanı</td>
+                <td>@Model.CompanyName</td>
+            </tr>
+            <tr>
+                <td>Telefon</td>
+                <td>@Model.Phone</td>
+            </tr>
+            <tr>
+                <td>Web Sitesi</td>
+                <td><a href="@Model.WebSite" rel="nofollow" target="_blank">@Model.WebSite</a></td>
+            </tr>
+        </table>
+    </div>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-W9YGSJ46E3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-W9YGSJ46E3');
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,105 @@
+﻿@model Company
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Şirket ekleme sayfası</h1>
+
+<h4>Şirket</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CompanyName" class="control-label"></label>
+                <span asp-validation-for="CompanyName" class="text-danger field-validation-error"></span>
+                <input asp-for="CompanyName" class="form-control" />
+              
+            </div>
+            <div class="form-group">
+                <label asp-for="CompanySector" class="control-label"></label>
+                <span asp-validation-for="CompanySector" class="text-danger field-validation-error"></span>
+                <input asp-for="CompanySector" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="TaxNumber" class="control-label"></label>
+                <input asp-for="TaxNumber" class="form-control" />
+                <span asp-validation-for="TaxNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FaxNumber" class="control-label"></label>
+                <input asp-for="FaxNumber" class="form-control" />
+                <span asp-validation-for="FaxNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <span asp-validation-for="Phone" class="text-danger field-validation-error"></span>
+                <input asp-for="Phone" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <span asp-validation-for="Email" class="text-danger field-validation-error"></span>
+                <input asp-for="Email" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="WebSite" class="control-label"></label>
+                <input asp-for="WebSite" class="form-control" />
+                <span asp-validation-for="WebSite" class="text-danger"></span>
+            </div>
+         
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LinkedIn" class="control-label"></label>
+                <input asp-for="LinkedIn" class="form-control" />
+                <span asp-validation-for="LinkedIn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstablishmentDate" class="control-label"></label>
+                <span asp-validation-for="EstablishmentDate" class="text-danger field-validation-error"></span>
+                <input asp-for="EstablishmentDate" class="form-control" type="date" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="CountofWorker" class="control-label"></label>
+                <span asp-validation-for="CountofWorker" class="text-danger field-validation-error"></span>
+                <input asp-for="CountofWorker" class="form-control" />
+               
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="ImgFile" class="control-label">Şirket Logosu : </label>
+                <span asp-validation-for="ImgFile" class="text-danger field-validation-error"></span>
+                <input type="file" asp-for="ImgFile" class="form-control" />
+               
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Ekle" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye dön</a>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

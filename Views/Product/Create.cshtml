@@ -1,0 +1,43 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Ürün ekleme sayfası</h1>
+
+<h4>Ürün</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+           
+            <div class="form-group">
+                <label asp-for="ProductName" class="control-label"></label>
+                <span asp-validation-for="ProductName" class="text-danger field-validation-error"></span>
+                <input asp-for="ProductName" class="form-control" />
+               
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ImgFile" class="control-label">Ürün Görseli : </label>
+                <span asp-validation-for="ImgFile" class="text-danger field-validation-error"></span>
+                <input type="file" asp-for="ImgFile" class="form-control" />
+              
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Ekle" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye dön</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

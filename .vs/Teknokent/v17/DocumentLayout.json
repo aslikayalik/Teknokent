@@ -1,0 +1,2178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Teknokent.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teknokent.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Teknokent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teknokent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\SD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Tto\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Tto\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Shared\\_Layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Event\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Event\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Event\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Event\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CampusPreliminaryAppForm\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\CampusPreliminaryAppForm\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CampusPreliminaryAppForm\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\CampusPreliminaryAppForm\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Article\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Article\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Validation\\DateGreaterThanAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Validation\\DateGreaterThanAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\CompanyRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\CompanyRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\Legislation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Legislation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\ViewModels\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ViewModels\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Migrations\\20240223185203_UpdateNewsArticleBoardOfMemberStatisticModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240223185203_UpdateNewsArticleBoardOfMemberStatisticModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Migrations\\20240218113839_DeleteImgFiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240218113839_DeleteImgFiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IArticleRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IArticleRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\Enums\\CommissionMemberType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Enums\\CommissionMemberType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\EntityFramework\\EfEntityRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\EntityFramework\\EfEntityRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\TtoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\TtoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\StatisticController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\StatisticController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ReportController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ReportController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\RefereeRegistrationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\RefereeRegistrationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ProjectController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ProjectController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\OfficeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\OfficeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\NewsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\NewsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ManagementOfficeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ManagementOfficeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\LegislationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\LegislationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\GeneralInformationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\GeneralInformationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\FaqController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\FaqController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\EventController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\EventController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\CvController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CvController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\CompanyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CompanyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\CareerPostingController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CareerPostingController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\CampusPreliminaryAppFormController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CampusPreliminaryAppFormController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\BoardOfMemberController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\BoardOfMemberController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ArticleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ArticleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\Enums\\WantSection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Enums\\WantSection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\Enums\\Campus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Enums\\Campus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IProjectRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IProjectRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IOfficeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IOfficeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\INewsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\INewsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IManagementOfficeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IManagementOfficeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ILegislationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\ILegislationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IGeneralInformationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IGeneralInformationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IRefereeRegistrationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IRefereeRegistrationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IReportRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IReportRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IStatisticRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IStatisticRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ITtoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\ITtoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IFileUploadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IFileUploadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IFaqRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IFaqRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IEventRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IEventRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ICvRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\ICvRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ICompanyRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\ICompanyRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ICareerPostingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\ICareerPostingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ICampusPreliminaryAppFormRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\ICampusPreliminaryAppFormRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IBoardOfMemberRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IBoardOfMemberRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Migrations\\20240215155026_CreateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240215155026_CreateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\Project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\TtoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\TtoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\StatisticRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\StatisticRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ReportRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\ReportRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\RefereeRegistrationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\RefereeRegistrationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ProjectRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\ProjectRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\OfficeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\OfficeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\NewsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\NewsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ManagementOfficeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\ManagementOfficeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\LegislationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\LegislationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\GeneralInformationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\GeneralInformationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\FileUploadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\FileUploadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\FaqRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\FaqRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\EventRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\EventRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\CvRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\CvRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\CareerPostingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\CareerPostingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\CampusPreliminaryAppFormRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\CampusPreliminaryAppFormRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\BoardOfMemberRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\BoardOfMemberRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ArticleRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\ArticleRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\Company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Article\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Article\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Article\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Article\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Company\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Company\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Company\\IndexE.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Company\\IndexE.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Cv\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Cv\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Cv\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Cv\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Tto\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Tto\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Statistic\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Statistic\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\User\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\User\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\User\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\User\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Cv\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Cv\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Cv\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Cv\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Company\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Company\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\IndexE.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\CareerPosting\\IndexE.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\CareerPosting\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\CareerPosting\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\CareerPosting\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\CareerPosting\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CampusPreliminaryAppForm\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\CampusPreliminaryAppForm\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CampusPreliminaryAppForm\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\CampusPreliminaryAppForm\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\IndexE.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\BoardOfMember\\IndexE.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\BoardOfMember\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\BoardOfMember\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\BoardOfMember\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\BoardOfMember\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Article\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Article\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Account\\Lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Account\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Report\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Report\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Resources\\Views\\Home\\Index.en-US.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resources\\Views\\Home\\Index.en-US.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teknokent.csproj.user",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Teknokent.csproj.user",
+              "RelativeDocumentMoniker": "Teknokent.csproj.user",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Teknokent.csproj.user",
+              "RelativeToolTip": "Teknokent.csproj.user",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-10-27T10:18:13.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teknokent.csproj",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Teknokent.csproj",
+              "RelativeDocumentMoniker": "Teknokent.csproj",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Teknokent.csproj",
+              "RelativeToolTip": "Teknokent.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T10:17:57.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-27T10:17:08.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Tto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tto\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Tto\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Tto\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:16:24.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-27T10:16:20.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "Views\\Event\\Index.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:16:12.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Event\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:16:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "Repositories\\CompanyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:04:08.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:49:58.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T09:50:42.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T09:48:17.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:50:32.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\SD.cs",
+              "RelativeDocumentMoniker": "SD.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\SD.cs",
+              "RelativeToolTip": "SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:50:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Legislation.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\Legislation.cs",
+              "RelativeDocumentMoniker": "Models\\Legislation.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\Legislation.cs",
+              "RelativeToolTip": "Models\\Legislation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:15:29.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:49:28.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240223185203_UpdateNewsArticleBoardOfMemberStatisticModels.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Migrations\\20240223185203_UpdateNewsArticleBoardOfMemberStatisticModels.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240223185203_UpdateNewsArticleBoardOfMemberStatisticModels.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Migrations\\20240223185203_UpdateNewsArticleBoardOfMemberStatisticModels.cs",
+              "RelativeToolTip": "Migrations\\20240223185203_UpdateNewsArticleBoardOfMemberStatisticModels.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:15:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:50:00.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240218113839_DeleteImgFiles.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Migrations\\20240218113839_DeleteImgFiles.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240218113839_DeleteImgFiles.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Migrations\\20240218113839_DeleteImgFiles.cs",
+              "RelativeToolTip": "Migrations\\20240218113839_DeleteImgFiles.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:15:17.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DateGreaterThanAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Validation\\DateGreaterThanAttribute.cs",
+              "RelativeDocumentMoniker": "Validation\\DateGreaterThanAttribute.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Validation\\DateGreaterThanAttribute.cs",
+              "RelativeToolTip": "Validation\\DateGreaterThanAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:49:53.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Article\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Article\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Article\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Article\\Delete.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:58:28.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CampusPreliminaryAppForm\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CampusPreliminaryAppForm\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CampusPreliminaryAppForm\\Index.cshtml",
+              "RelativeToolTip": "Views\\CampusPreliminaryAppForm\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:59:49.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CampusPreliminaryAppForm\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\CampusPreliminaryAppForm\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CampusPreliminaryAppForm\\Edit.cshtml",
+              "RelativeToolTip": "Views\\CampusPreliminaryAppForm\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:59:42.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:15:12.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:14:16.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TtoController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\TtoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TtoController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\TtoController.cs",
+              "RelativeToolTip": "Controllers\\TtoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:14:03.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StatisticController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\StatisticController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StatisticController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\StatisticController.cs",
+              "RelativeToolTip": "Controllers\\StatisticController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:13:56.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:13:50.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RefereeRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\RefereeRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RefereeRegistrationController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\RefereeRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\RefereeRegistrationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:13:43.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:48:30.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EfEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\EntityFramework\\EfEntityRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EntityFramework\\EfEntityRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\EntityFramework\\EfEntityRepository.cs",
+              "RelativeToolTip": "Data\\EntityFramework\\EfEntityRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:10:29.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CommissionMemberType.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\Enums\\CommissionMemberType.cs",
+              "RelativeDocumentMoniker": "Data\\Enums\\CommissionMemberType.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\Enums\\CommissionMemberType.cs",
+              "RelativeToolTip": "Data\\Enums\\CommissionMemberType.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:49:07.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IArticleRepository.cs",
+              "RelativeToolTip": "Interfaces\\IArticleRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:49:14.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:13:30.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:13:22.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OfficeController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\OfficeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OfficeController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\OfficeController.cs",
+              "RelativeToolTip": "Controllers\\OfficeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:13:15.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Controllers\\NewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:13:09.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ManagementOfficeController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ManagementOfficeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManagementOfficeController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ManagementOfficeController.cs",
+              "RelativeToolTip": "Controllers\\ManagementOfficeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:13:03.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LegislationController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\LegislationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LegislationController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\LegislationController.cs",
+              "RelativeToolTip": "Controllers\\LegislationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:12:56.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:12:48.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GeneralInformationController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\GeneralInformationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GeneralInformationController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\GeneralInformationController.cs",
+              "RelativeToolTip": "Controllers\\GeneralInformationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:12:40.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FaqController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\FaqController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FaqController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\FaqController.cs",
+              "RelativeToolTip": "Controllers\\FaqController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:12:34.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:12:26.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CvController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\CvController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CvController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\CvController.cs",
+              "RelativeToolTip": "Controllers\\CvController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:12:19.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:12:10.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CareerPostingController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\CareerPostingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CareerPostingController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\CareerPostingController.cs",
+              "RelativeToolTip": "Controllers\\CareerPostingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:12:01.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CampusPreliminaryAppFormController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\CampusPreliminaryAppFormController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CampusPreliminaryAppFormController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\CampusPreliminaryAppFormController.cs",
+              "RelativeToolTip": "Controllers\\CampusPreliminaryAppFormController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:11:50.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IProjectRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:09:55.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Campus.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\Enums\\Campus.cs",
+              "RelativeDocumentMoniker": "Data\\Enums\\Campus.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\Enums\\Campus.cs",
+              "RelativeToolTip": "Data\\Enums\\Campus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:49:04.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WantSection.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\Enums\\WantSection.cs",
+              "RelativeDocumentMoniker": "Data\\Enums\\WantSection.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\Enums\\WantSection.cs",
+              "RelativeToolTip": "Data\\Enums\\WantSection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:49:09.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:48:58.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:48:41.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BoardOfMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\BoardOfMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BoardOfMemberController.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Controllers\\BoardOfMemberController.cs",
+              "RelativeToolTip": "Controllers\\BoardOfMemberController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:48:47.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:09:47.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IOfficeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IOfficeRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOfficeRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IOfficeRepository.cs",
+              "RelativeToolTip": "Interfaces\\IOfficeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:09:41.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "INewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\INewsRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\INewsRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\INewsRepository.cs",
+              "RelativeToolTip": "Interfaces\\INewsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:09:34.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IManagementOfficeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IManagementOfficeRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IManagementOfficeRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IManagementOfficeRepository.cs",
+              "RelativeToolTip": "Interfaces\\IManagementOfficeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:09:27.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ILegislationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ILegislationRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILegislationRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ILegislationRepository.cs",
+              "RelativeToolTip": "Interfaces\\ILegislationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:09:21.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IGeneralInformationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IGeneralInformationRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IGeneralInformationRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IGeneralInformationRepository.cs",
+              "RelativeToolTip": "Interfaces\\IGeneralInformationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:09:12.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IRefereeRegistrationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IRefereeRegistrationRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRefereeRegistrationRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IRefereeRegistrationRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRefereeRegistrationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:09:04.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IReportRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReportRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IReportRepository.cs",
+              "RelativeToolTip": "Interfaces\\IReportRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:08:58.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IStatisticRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IStatisticRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IStatisticRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IStatisticRepository.cs",
+              "RelativeToolTip": "Interfaces\\IStatisticRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:08:52.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ITtoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ITtoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITtoRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ITtoRepository.cs",
+              "RelativeToolTip": "Interfaces\\ITtoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:08:45.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IFileUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IFileUploadService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFileUploadService.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IFileUploadService.cs",
+              "RelativeToolTip": "Interfaces\\IFileUploadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:08:38.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IFaqRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IFaqRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFaqRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IFaqRepository.cs",
+              "RelativeToolTip": "Interfaces\\IFaqRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:08:32.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ICvRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ICvRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICvRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ICvRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICvRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:08:19.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICompanyRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ICompanyRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICompanyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:08:13.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ICareerPostingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ICareerPostingRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICareerPostingRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ICareerPostingRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICareerPostingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:08:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ICampusPreliminaryAppFormRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ICampusPreliminaryAppFormRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICampusPreliminaryAppFormRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\ICampusPreliminaryAppFormRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICampusPreliminaryAppFormRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:08:00.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IBoardOfMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IBoardOfMemberRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBoardOfMemberRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IBoardOfMemberRepository.cs",
+              "RelativeToolTip": "Interfaces\\IBoardOfMemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:07:53.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Interfaces\\IEventRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:07:41.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240215155026_CreateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Migrations\\20240215155026_CreateDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240215155026_CreateDatabase.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Migrations\\20240215155026_CreateDatabase.cs",
+              "RelativeToolTip": "Migrations\\20240215155026_CreateDatabase.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:07:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:07:29.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "StatisticRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\StatisticRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StatisticRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\StatisticRepository.cs",
+              "RelativeToolTip": "Repositories\\StatisticRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:07:07.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ReportRepository.cs",
+              "RelativeToolTip": "Repositories\\ReportRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:06:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RefereeRegistrationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\RefereeRegistrationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RefereeRegistrationRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\RefereeRegistrationRepository.cs",
+              "RelativeToolTip": "Repositories\\RefereeRegistrationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:06:42.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "Repositories\\ProjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:06:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:06:24.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "OfficeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\OfficeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OfficeRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\OfficeRepository.cs",
+              "RelativeToolTip": "Repositories\\OfficeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:06:14.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "NewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\NewsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\NewsRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\NewsRepository.cs",
+              "RelativeToolTip": "Repositories\\NewsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:06:02.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "TtoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\TtoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TtoRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\TtoRepository.cs",
+              "RelativeToolTip": "Repositories\\TtoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:02:37.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ManagementOfficeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ManagementOfficeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ManagementOfficeRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ManagementOfficeRepository.cs",
+              "RelativeToolTip": "Repositories\\ManagementOfficeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:05:48.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "LegislationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\LegislationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LegislationRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\LegislationRepository.cs",
+              "RelativeToolTip": "Repositories\\LegislationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:05:42.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "GeneralInformationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\GeneralInformationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GeneralInformationRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\GeneralInformationRepository.cs",
+              "RelativeToolTip": "Repositories\\GeneralInformationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:05:34.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "FileUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\FileUploadService.cs",
+              "RelativeDocumentMoniker": "Repositories\\FileUploadService.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\FileUploadService.cs",
+              "RelativeToolTip": "Repositories\\FileUploadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:05:23.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "FaqRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\FaqRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FaqRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\FaqRepository.cs",
+              "RelativeToolTip": "Repositories\\FaqRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:05:16.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "Repositories\\EventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:05:08.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "CvRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\CvRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CvRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\CvRepository.cs",
+              "RelativeToolTip": "Repositories\\CvRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:04:55.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "CareerPostingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\CareerPostingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CareerPostingRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\CareerPostingRepository.cs",
+              "RelativeToolTip": "Repositories\\CareerPostingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:04:02.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "CampusPreliminaryAppFormRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\CampusPreliminaryAppFormRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CampusPreliminaryAppFormRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\CampusPreliminaryAppFormRepository.cs",
+              "RelativeToolTip": "Repositories\\CampusPreliminaryAppFormRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:03:52.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "BoardOfMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\BoardOfMemberRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BoardOfMemberRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\BoardOfMemberRepository.cs",
+              "RelativeToolTip": "Repositories\\BoardOfMemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:03:42.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Models\\Company.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\Company.cs",
+              "RelativeToolTip": "Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:03:15.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Tto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Tto\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tto\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:01:15.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Statistic\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Statistic\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Statistic\\Index.cshtml",
+              "RelativeToolTip": "Views\\Statistic\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:01:08.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Cv\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cv\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Cv\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Cv\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:00:52.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Cv\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cv\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Cv\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Cv\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:00:49.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "IndexE.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Company\\IndexE.cshtml",
+              "RelativeDocumentMoniker": "Views\\Company\\IndexE.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Company\\IndexE.cshtml",
+              "RelativeToolTip": "Views\\Company\\IndexE.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:00:38.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Company\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Company\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Company\\Create.cshtml",
+              "RelativeToolTip": "Views\\Company\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:00:29.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Article\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Article\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Article\\Create.cshtml",
+              "RelativeToolTip": "Views\\Article\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:58:21.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "Repositories\\ArticleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:49:43.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:01:28.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:01:24.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Article\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Article\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Article\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Article\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:58:30.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:01:02.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Cv\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cv\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Cv\\Create.cshtml",
+              "RelativeToolTip": "Views\\Cv\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:00:56.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Cv\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cv\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Cv\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cv\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:00:46.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Company\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Company\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Company\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Company\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:00:34.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "IndexE.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\IndexE.cshtml",
+              "RelativeDocumentMoniker": "Views\\CareerPosting\\IndexE.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\IndexE.cshtml",
+              "RelativeToolTip": "Views\\CareerPosting\\IndexE.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:00:23.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CareerPosting\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\Index.cshtml",
+              "RelativeToolTip": "Views\\CareerPosting\\Index.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:00:18.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\CareerPosting\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\Edit.cshtml",
+              "RelativeToolTip": "Views\\CareerPosting\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:00:09.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\CareerPosting\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\Delete.cshtml",
+              "RelativeToolTip": "Views\\CareerPosting\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:00:02.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\CareerPosting\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CareerPosting\\Create.cshtml",
+              "RelativeToolTip": "Views\\CareerPosting\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:59:54.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CampusPreliminaryAppForm\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\CampusPreliminaryAppForm\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CampusPreliminaryAppForm\\Delete.cshtml",
+              "RelativeToolTip": "Views\\CampusPreliminaryAppForm\\Delete.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:59:36.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CampusPreliminaryAppForm\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\CampusPreliminaryAppForm\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\CampusPreliminaryAppForm\\Create.cshtml",
+              "RelativeToolTip": "Views\\CampusPreliminaryAppForm\\Create.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:59:22.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "IndexE.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\IndexE.cshtml",
+              "RelativeDocumentMoniker": "Views\\BoardOfMember\\IndexE.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\IndexE.cshtml",
+              "RelativeToolTip": "Views\\BoardOfMember\\IndexE.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:59:11.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BoardOfMember\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\Index.cshtml",
+              "RelativeToolTip": "Views\\BoardOfMember\\Index.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:59:05.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\BoardOfMember\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\Edit.cshtml",
+              "RelativeToolTip": "Views\\BoardOfMember\\Edit.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:59:00.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\BoardOfMember\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\Delete.cshtml",
+              "RelativeToolTip": "Views\\BoardOfMember\\Delete.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:58:49.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\BoardOfMember\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\BoardOfMember\\Create.cshtml",
+              "RelativeToolTip": "Views\\BoardOfMember\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:58:41.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "Views\\Article\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:58:35.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:58:12.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:57:56.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Account\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Lockout.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Account\\Lockout.cshtml",
+              "RelativeToolTip": "Views\\Account\\Lockout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:57:55.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Account\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Error.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Account\\Error.cshtml",
+              "RelativeToolTip": "Views\\Account\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:57:54.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Report\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Report\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Views\\Report\\Create.cshtml",
+              "RelativeToolTip": "Views\\Report\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:50:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "Index.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Resources\\Views\\Home\\Index.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Home\\Index.en-US.resx",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Resources\\Views\\Home\\Index.en-US.resx",
+              "RelativeToolTip": "Resources\\Views\\Home\\Index.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-27T09:49:50.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T09:49:34.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\kayal\\OneDrive\\Masa\u00FCst\u00FC\\TeknokentADU\\Teknokent\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:49:24.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

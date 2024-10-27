@@ -1,0 +1,94 @@
+﻿@model RegisterViewModel
+<div class="border p-3 mt-4">
+    <div class="row pb-2">
+        <h2>Yetkili Ekleme Sayfası</h2>
+        <hr />
+    </div>
+<form asp-controller="Account" asp-action="Register" method="post" role="form">
+  <div class="row">
+    <div class="col-md-6">
+    
+   
+        <div class="form-group">
+                    <label asp-for="Email" class="control-label">Email</label>
+        <span asp-validation-for="Email" class="text-danger field-validation-error"></span>
+            <div class="col-md-10">
+            <input asp-for="Email" class="form-control" />
+                      
+            </div>
+        </div>
+        <div class="form-group">
+                    <label asp-for="Name" class="control-label">Ad</label>
+        <span asp-validation-for="Name" class="text-danger field-validation-error"></span>
+            <div class="col-md-10">
+         
+            <input asp-for="Name" class="form-control" oninput="capitalizeFirstWord(this)" />
+                       
+            </div>
+        </div>
+        <div class="form-group">
+                    <label asp-for="LastName" class="control-label">Soyad</label>
+        <span asp-validation-for="LastName" class="text-danger field-validation-error"></span>
+            <div class="col-md-10">
+            <input asp-for="LastName" class="form-control" oninput="toUpperCase(this)" />
+                      
+            </div>
+        </div>
+        <div class="form-group">
+                    <label asp-for="Phone" class="control-label">Telefon</label>
+                    <span asp-validation-for="Phone" class="text-danger field-validation-error"></span>
+            <div class="col-md-10">
+            <input asp-for="Phone" class="form-control" />
+                       
+            </div>
+        </div>
+        <div class="form-group">
+                    <label asp-for="Company" class="control-label">Şirket</label>
+          <span asp-validation-for="Company" class="text-danger"></span>
+            <div class="col-md-10">
+                        <input asp-for="Company" class="form-control" oninput="capitalizeFirstWord(this)" />
+                 
+            </div>
+        </div>
+
+
+        <div class="form-group">
+                    <label asp-for="Password" class="control-label">Şifre</label>
+        <span asp-validation-for="Password" class="text-danger field-validation-error"></span>
+            <div class="col-md-10">
+            <input asp-for="Password" class="form-control" />
+                       
+            </div>
+        </div>
+        <div class="form-group">
+                    <label asp-for="ConfirmPassword" class="control-label">Şifre Tekrar</label>
+       <span asp-validation-for="ConfirmPassword" class="text-danger field-validation-error"></span>
+            <div class="col-md-10">
+            <input asp-for="ConfirmPassword" class="form-control" />
+                       
+            </div>
+        </div>
+        <div class="form-group">
+                    <label asp-for="RoleSelected" class="control-label">Yetki</label>
+                    <span asp-validation-for="RoleSelected" class="text-danger field-validation-error"></span>
+            <div class="col-md-10">
+            <select asp-for="RoleSelected" asp-items="@Model.RoleList" class="form-control">
+                <option disabled selected>--Yetkiyi Seçiniz--</option>
+            </select>
+            </div>
+        </div>
+
+    
+    </div>
+  </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-primary" style="width:150px">Ekle</button>
+        <a asp-controller="User" asp-action="Index" class="btn btn-secondary" style="width:150px">
+            Kullanıcı Listesine Dön
+        </a>
+ 
+</form>
+
+</div>

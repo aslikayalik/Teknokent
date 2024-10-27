@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Teknokent</title>
+    <link rel="stylesheet" href="~/css/bootswatchTheme.css"/>
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Teknokent.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" crossorigin="anonymous" />
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Teknokent</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">
+                                Ana Sayfa
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" id="articleDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                               Kurumsal
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="articleDropdown">
+                                <li><a class="dropdown-item" asp-controller="Legislation" asp-action="IndexE">Mevzuat</a></li>
+                                <li><a class="dropdown-item" asp-controller="GeneralInformation" asp-action="IndexE">Teknokent Kavramı</a></li>
+                                <li><a class="dropdown-item" asp-controller="GeneralInformation" asp-action="IndexE">Hakkımızda </a></li>
+                                <li><a class="dropdown-item" asp-controller="BoardOfMember" asp-action="IndexE">Yönetim Kuralı</a></li>
+                                <li><a class="dropdown-item" asp-controller="ManagementOffice" asp-action="IndexE">Yönetim Ofisi</a></li>
+                                <li><a class="dropdown-item" asp-controller="GeneralInformation" asp-action="IndexE">Desteklerimiz</a></li>
+                                <li><a class="dropdown-item" asp-controller="Faq" asp-action="IndexE">SSS</a></li>
+                            </ul>
+                            </div>
+
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" id="articleDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                                    ADÜ TTO
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="articleDropdown">
+                                    <li><a class="dropdown-item" asp-controller="GeneralInformation" asp-action="IndexE">Teknokent Kavramı</a></li>
+                                    <li><a class="dropdown-item" asp-controller="GeneralInformation" asp-action="IndexE">Hakkımızda </a></li>
+                                    <li><a class="dropdown-item" asp-controller="GeneralInformation" asp-action="IndexE">Teknokent Kavramı</a></li>
+                                    <li><a class="dropdown-item" asp-controller="GeneralInformation" asp-action="IndexE">Hakkımızda </a></li>
+                                    <li><a class="dropdown-item" asp-controller="GeneralInformation" asp-action="IndexE">Teknokent Kavramı</a></li>
+                                 
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" id="careerDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Başvuru
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="careerDropdown">
+                                    <li><a class="dropdown-item" asp-controller="CampusPreliminaryAppForm" asp-action="Create">Başvuru Formu</a></li>
+                                    <li><a class="dropdown-item" asp-controller="RefereeRegistration" asp-action="Create">Hakem Kayıt</a></li>
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link" asp-controller="Report" asp-action="IndexE">
+                                   Raporlar
+                                </a>
+                              
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link" asp-controller="Company" asp-action="IndexE">
+                                    Firmalarımız
+                                </a>
+                              
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" id="statisticDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                                    İK
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="statisticDropdown">
+                                    <li><a class="dropdown-item" asp-controller="CareerPosting" asp-action="IndexE">Kariyer Fırsatları</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Cv" asp-action="Create">İş Staj Başvurusu</a></li>
+                                 
+                                </ul>
+                            </div>
+                        </li>
+                     
+                    </ul>
+                </div>
+                <div>
+
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            <partial name="_Notifications" />
+            @RenderBody()
+        </main>
+    </div>
+
+    
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

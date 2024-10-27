@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Report>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Repor listesi</h1>
+
+<p>
+    <a asp-action="Create">Rapor Ekleme Sayfası</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ReportName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FilePath)
+            </th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+          
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReportName)
+            </td>
+                <td>
+                    <a asp-action="DownloadFile" asp-route-filePath="@item.FilePath">@item.FilePath.Split('\\').Last()</a>
+                </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Düzenle</a> |
+            
+                <a asp-action="Delete" asp-route-id="@item.Id">Sil</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Company>
+
+@{
+    ViewData["Title"] = "IndexE";
+}
+
+<h1 style="color: #007BFF; font-family: Arial, sans-serif; font-size: 2.5em; text-align: center;">Firmalarımız</h1>
+
+
+<style>
+    .company-image {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .company-name {
+        text-align: center;
+        font-size: 1.2em;
+    }
+
+    .company-card {
+        background-color: #f0f0f0; /* This is a light gray color */
+        margin-bottom: 20px;
+        padding: 20px;
+        border-radius: 5px;
+    }
+</style>
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            string imgPath = item.ImgPath;
+            string relativePath = imgPath;
+            if (imgPath.Contains("\\wwwroot\\"))
+            {
+                relativePath = imgPath.Substring(imgPath.IndexOf("\\wwwroot\\") + 9).Replace("\\", "/");
+            }
+            <div class="col-md-3 company-card">
+                <a href="@Url.Action("Details", "Company", new { id = item.Id })">
+                    <img class="company-image" src="@Url.Content("~/" + relativePath)" alt="Şirket logosu" />
+                </a>
+                <p class="company-name">@Html.DisplayFor(modelItem => item.CompanyName)</p>
+            </div>
+        }
+    </div>
+</div>

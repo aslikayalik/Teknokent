@@ -1,0 +1,644 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+	<!-- meta data -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	<!--font-family-->
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+	<!--font-awesome.min.css-->
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+
+	<!--linear icon css-->
+	<link rel="stylesheet" href="/css/linearicons.css">
+
+	<!--animate.css-->
+	<link rel="stylesheet" href="/css/animate.css">
+
+	<!--flaticon.css-->
+	<link rel="stylesheet" href="/css/flaticon.css">
+
+	<!--slick.css-->
+	<link rel="stylesheet" href="/css/slick.css">
+	<link rel="stylesheet" href="/css/slick-theme.css">
+
+	<!--bootstrap.min.css-->
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+	<!-- bootsnav -->
+	<link rel="stylesheet" href="/css/bootsnav.css">
+
+	<!--style.css-->
+	<link rel="stylesheet" href="/css/style.css">
+
+	<link rel="stylesheet" href="/css/.css">
+
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+	<style>
+		.slider .slide img {
+			width: 200px; /* Adjust as needed */
+			height: 200px; /* Adjust as needed */
+			object-fit: cover;
+		}
+	</style>
+
+</head>
+
+<body>
+	<!-- top-area End -->
+	<!--welcome-hero start -->
+	<section class="welcome-hero">
+		<video autoplay loop muted playsinline poster="../videos/teknokent1.jpg">
+			<source src="../videos/teknokent1.mp4" type="video/mp4">
+			<!-- Diğer video formatları için gerekirse eklemeler yapabilirsiniz -->
+			Your browser does not support the video tag.
+		</video>
+
+	</section>
+
+	<!--welcome-hero end -->
+	<!--list-topics start -->
+	<section id="list-topics" class="list-topics">
+		<div class="container">
+			<div class="list-topics-content">
+				<ul>
+					<li>
+						<div class="single-list-topics-content">
+							<div class="single-list-topics-icon">
+								<i class="fa-solid fa-arrow-pointer"></i>
+							</div>
+							<h2>
+								<a class="nav-link" asp-controller="GeneralInformation" asp-action="IndexE">
+									Bizi Tanıyın
+								</a>
+							</h2>
+
+						</div>
+					</li>
+					<li>
+						<div class="single-list-topics-content">
+							<div class="single-list-topics-icon">
+								<i class="fa-regular fa-building"></i>
+							</div>
+							<h2>
+								<a class="nav-link" asp-controller="Company" asp-action="IndexE">
+									Firmalarımız
+								</a>
+							</h2>
+
+						</div>
+					</li>
+					<li>
+						<div class="single-list-topics-content">
+							<div class="single-list-topics-icon">
+								<i class="fa-solid fa-question"></i>
+							</div>
+							<h2>
+								<a class="nav-link" asp-controller="Faq" asp-action="IndexE">
+									Sıkça Sorulan Sorular
+								</a>
+							</h2>
+
+						</div>
+					</li>
+					<li>
+						<div class="single-list-topics-content">
+							<div class="single-list-topics-icon">
+								<i class="fa-regular fa-pen-to-square"></i>
+							</div>
+							<h2>
+								<a class="nav-link" asp-controller="#" asp-action="IndexE">
+									Başvuru
+								</a>
+							</h2>
+
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div><!--/.container-->
+
+	</section><!--/.list-topics-->
+	<!--list-topics end-->
+	<!--works start -->
+	<section id="works" class="works">
+		<div class="container">
+			<div class="section-header">
+				<h2>Merak Ettikleriniz</h2>
+			</div><!--/.section-header-->
+			<div class="works-content">
+				<div class="row">
+					<div class="col-md-4 col-sm-6">
+						<div class="single-how-works">
+							<div class="single-how-works-icon">
+								<i class="flaticon-lightbulb-idea"></i>
+							</div>
+							<h2><a href="#">choose <span> what to</span> do</a></h2>
+							<p>
+								Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt ut laboremagna aliqua.
+							</p>
+							<button class="welcome-hero-btn how-work-btn" onclick="window.location.href='#'">
+								read more
+							</button>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="single-how-works">
+							<div class="single-how-works-icon">
+								<i class="flaticon-networking"></i>
+							</div>
+							<h2><a href="#">find <span> what you want</span></a></h2>
+							<p>
+								Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt ut laboremagna aliqua.
+							</p>
+							<button class="welcome-hero-btn how-work-btn" onclick="window.location.href='#'">
+								read more
+							</button>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="single-how-works">
+							<div class="single-how-works-icon">
+								<i class="flaticon-location-on-road"></i>
+							</div>
+							<h2><a href="#">explore <span> amazing</span> place</a></h2>
+							<p>
+								Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt ut laboremagna aliqua.
+							</p>
+							<button class="welcome-hero-btn how-work-btn" onclick="window.location.href='#'">
+								read more
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!--/.container-->
+	</section>
+	<!--works end -->
+	<!--explore start -->
+	<section id="explore" class="explore">
+		<div class="container">
+			<div class="section-header">
+				<h2>Etkinlikler & Haberler</h2>
+			</div><!--/.section-header-->
+			<!-- İçeriği buraya yerleştirin -->
+
+			<div class="explore-content">
+				<div class="row ">
+					<div class=" col-md-4 col-sm-6">
+						<div class="single-explore-item">
+							<div class="single-explore-img">
+								<img src="/images/explore/foto1.png" alt="">
+								<div class="single-explore-img-info">
+									<button onclick="window.location.href='#'">En yakın</button>
+									<div class="single-explore-image-icon-box">
+										<ul>
+											<li>
+												<div class="single-explore-image-icon">
+													<i class="fa fa-arrows-alt"></i>
+												</div>
+											</li>
+											<li>
+												<div class="single-explore-image-icon">
+													<i class="fa fa-bookmark-o"></i>
+												</div>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="single-explore-txt bg-theme-1">
+								<h2><a href="#">tommy helfinger bar</a></h2>
+								<div class="explore-writing1">
+									<div class="row">
+										<div class="col-sm-10">
+											<p>
+												Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua....
+											</p>
+										</div>
+									</div>
+								</div>
+								<div class="explore-open-close-part">
+									<div class="row">
+										<div class="col-sm-5">
+											<button class="close-btn" onclick="window.location.href='#'">close now</button>
+										</div>
+										<div class="col-sm-5">
+											<button class="con-btn" onclick="#">Devamı için -></button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="single-explore-item">
+							<div class="single-explore-img">
+								<img src="/images/explore/e2.jpg" alt="explore image">
+								<div class="single-explore-img-info">
+									<button onclick="window.location.href='#'">featured</button>
+									<div class="single-explore-image-icon-box">
+										<ul>
+											<li>
+												<div class="single-explore-image-icon">
+													<i class="fa fa-arrows-alt"></i>
+												</div>
+											</li>
+											<li>
+												<div class="single-explore-image-icon">
+													<i class="fa fa-bookmark-o"></i>
+												</div>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="single-explore-txt bg-theme-2">
+								<h2><a href="#">swim and dine resort</a></h2>
+
+								<div class="explore-writing2">
+									<div class="row">
+										<div class="col-sm-10">
+											<p>
+												Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua....
+											</p>
+										</div>
+									</div>
+								</div>
+								<div class="explore-open-close-part">
+									<div class="row">
+										<div class="col-sm-5">
+											<button class="close-btn open-btn" onclick="window.location.href='#'">open now</button>
+										</div>
+										<div class="col-sm-5">
+											<a class="nav-link" asp-controller="Company" asp-action="IndexE">
+												Devamı İçin Tıklayınız
+											</a>
+										</div>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="single-explore-item">
+							<div class="single-explore-img">
+								<img src="/images/explore/e3.jpg" alt="explore image">
+								<div class="single-explore-img-info">
+									<button onclick="window.location.href='#'">best rated</button>
+									<div class="single-explore-image-icon-box">
+										<ul>
+											<li>
+												<div class="single-explore-image-icon">
+													<i class="fa fa-arrows-alt"></i>
+												</div>
+											</li>
+											<li>
+												<div class="single-explore-image-icon">
+													<i class="fa fa-bookmark-o"></i>
+												</div>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="single-explore-txt bg-theme-3">
+								<h2><a href="#">europe tour</a></h2>
+
+								<div class="explore-writing3">
+									<div class="row">
+										<div class="col-sm-10">
+											<p>
+												Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua....
+											</p>
+										</div>
+									</div>
+								</div>
+								<div class="explore-open-close-part">
+									<div class="row">
+										<div class="col-sm-5">
+											<button class="close-btn" onclick="window.location.href='#'">close now</button>
+										</div>
+										<div class="col-sm-5">
+											<button class="con-btn" onclick='#' ">Devamı için -></button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+		   </div><!--/.container-->
+		</div>
+
+	</section><!--/.explore-->
+	<!--explore end -->
+	<!--sektörel dağılım start-->
+	<!--sektörel dağılım end-->
+	<!--Firmalar start-->
+	
+
+	<div class="slider-container">
+		<h2 class="slider-title">Firmalarımız</h2>
+		<div class="slider">
+			<a href="#" class="slide"><img src="~/companyLogoImages/budunai2.png" alt="Slide 1"></a>
+			<a href="#" class="slide"><img src="~/companyLogoImages/bushel.png" alt="Slide 2"></a>
+			<a href="#" class="slide"><img src="~/companyLogoImages/nova.png" alt="Slide 3"></a>
+			<a href="#" class="slide"><img src="~/companyLogoImages/ovgmakine.png" alt="Slide 4"></a>
+			<a href="#" class="slide"><img src="~/companyLogoImages/özgür.png" alt="Slide 5"></a>
+			<a href="#" class="slide"><img src="~/companyLogoImages/yukademy.png" alt="Slide 6"></a>
+		</div>
+		<button class="prev" onclick="prevSlide()">&#10094;</button>
+		<button class="next" onclick="nextSlide()">&#10095;</button>
+	</div>
+	<a class="nav-link" asp-controller="Company" asp-action="IndexE">
+		Daha fazla
+	</a>
+
+
+
+	<!-- statistics strat -->
+	<section id="statistics" class="statistics">
+		<div class="container">
+			<div class="statistics-counter">
+				<div class="col-md-3 col-sm-6">
+					<div class="single-ststistics-box">
+						<div class="statistics-content">
+							<div id="firmaCounter" class="counter" data-target="70" data-increment="1">70 </div>
+						</div><!--/.statistics-content-->
+						<h3>Toplam Firma Sayısı</h3>
+					</div><!--/.single-ststistics-box-->
+				</div><!--/.col-->
+				<div class="col-md-3 col-sm-6">
+					<div class="single-ststistics-box">
+						<div class="statistics-content">
+							<div id="patentCounter" class="counter" data-target="7" data-increment="1">7</div>
+						</div><!--/.statistics-content-->
+						<h3>Patent Sayısı</h3>
+					</div><!--/.single-ststistics-box-->
+				</div><!--/.col-->
+				<div class="col-md-3 col-sm-6">
+					<div class="single-ststistics-box">
+						<div class="statistics-content">
+							<div id="projeCounter" class="counter" data-target="112" data-increment="1">112</div>
+						</div><!--/.statistics-content-->
+						<h3>Proje Sayısı</h3>
+					</div><!--/.single-ststistics-box-->
+				</div><!--/.col-->
+				<div class="col-md-3 col-sm-6">
+					<div class="single-ststistics-box">
+						<div class="statistics-content">
+							<div id="personelCounter" class="counter" data-target="91" data-increment="1">91</div>
+						</div><!--/.statistics-content-->
+						<h3>Personel Sayısı</h3>
+					</div><!--/.single-ststistics-box-->
+				</div><!--/.col-->
+			</div><!--/.statistics-counter-->
+		</div><!--/.container-->
+
+	</section><!--/.counter-->
+	<!-- statistics end -->
+	<!--blog start -->
+	<section id="blog" class="blog">
+		<div class="container">
+			<div class="section-header">
+				<h2>news and articles</h2>
+				<p>Always upto date with our latest News and Articles </p>
+			</div><!--/.section-header-->
+			<div class="blog-content">
+				<div class="row">
+					<div class="col-md-4 col-sm-6">
+						<div class="single-blog-item">
+							<div class="single-blog-item-img">
+								<img src="/images/blog/b1.jpg" alt="blog image">
+							</div>
+							<div class="single-blog-item-txt">
+								<h2><a href="#">How to find your Desired Place more quickly</a></h2>
+
+								<p>
+									Lorem ipsum dolor sit amet, consectetur de adipisicing elit, sed do eiusmod tempore incididunt ut labore et dolore magna.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="single-blog-item">
+							<div class="single-blog-item-img">
+								<img src="/images/blog/b2.jpg" alt="blog image">
+							</div>
+							<div class="single-blog-item-txt">
+								<h2><a href="#">How to find your Desired Place more quickly</a></h2>
+
+								<p>
+									Lorem ipsum dolor sit amet, consectetur de adipisicing elit, sed do eiusmod tempore incididunt ut labore et dolore magna.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="single-blog-item">
+							<div class="single-blog-item-img">
+								<img src="/images/blog/b3.jpg" alt="blog image">
+							</div>
+							<div class="single-blog-item-txt">
+								<h2><a href="#">How to find your Desired Place more quickly</a></h2>
+
+								<p>
+									Lorem ipsum dolor sit amet, consectetur de adipisicing elit, sed do eiusmod tempore incididunt ut labore et dolore magna.
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!--/.container-->
+
+	</section><!--/.blog-->
+	<!--blog end -->
+	<!--subscription strat -->
+	<section id="contact" class="subscription">
+		<div class="container">
+			<div class="subscribe-title text-center">
+				<h2>
+					Bize Katılmak İster Misiniz?
+				</h2>
+				<p>
+					Daha detaylı bilgi almak için mail adresinizi girerek bilgi alabilirsiniz.
+				</p>
+			</div>
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="subscription-input-group">
+						<form action="#">
+							<input type="email" class="subscription-input-form" placeholder="Enter your email here">
+							<button class="appsLand-btn subscribe-btn" onclick="window.location.href='#'">
+								Gönder
+							</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</section><!--/subscription-->
+	<!--subscription end -->
+	<!--footer end-->
+	<!-- Include all js compiled plugins (below), or include individual files as needed -->
+
+	<script src="/js/jquery.js"></script>
+
+	<!--modernizr.min.js-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+	<!--bootstrap.min.js-->
+	<script src="/js/bootstrap.min.js"></script>
+
+	<!-- bootsnav js -->
+	<script src="/js/bootsnav.js"></script>
+
+	<!--feather.min.js-->
+	<script src="/js/feather.min.js"></script>
+
+	<!-- counter js -->
+	<script src="/js/jquery.counterup.min.js"></script>
+	<script src="/js/waypoints.min.js"></script>
+
+	<!--slick.min.js-->
+	<script src="/js/slick.min.js"></script>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+
+	<!--Custom JS-->
+	<script src="/js/custom.js"></script>
+
+	<script>
+		// Function to increment counters
+		function incrementCounter(counterId, targetValue, incrementAmount) {
+			var current = 0;
+			var timer = setInterval(function () {
+				current += incrementAmount;
+				document.getElementById(counterId).textContent = current;
+				if (current >= targetValue) {
+					clearInterval(timer);
+					document.getElementById(counterId).textContent = targetValue;
+				}
+			}, 10);
+		}
+
+		// Function to start incrementing counters when scrolled into view
+		function startCountersWhenInView() {
+			var counters = document.querySelectorAll('.counter');
+			var options = {
+				threshold: 0.1 // Change this threshold as needed, controls when the function gets called
+			};
+
+			var observer = new IntersectionObserver(function (entries, observer) {
+				entries.forEach(function (entry) {
+					if (entry.isIntersecting) {
+						var counterId = entry.target.id;
+						var targetValue = parseInt(entry.target.dataset.target);
+						var incrementAmount = parseInt(entry.target.dataset.increment);
+						incrementCounter(counterId, targetValue, incrementAmount);
+						observer.unobserve(entry.target);
+					}
+				});
+			}, options);
+
+			counters.forEach(function (counter) {
+				observer.observe(counter);
+			});
+		}
+
+		// Call the function to start incrementing counters when the page is loaded
+		window.onload = function () {
+			startCountersWhenInView();
+		};
+	</script>
+
+	<script>
+		let slideIndex = 0;
+		const slides = document.querySelectorAll('.slide');
+		const totalSlides = slides.length;
+		const slidesToShow = 3; // Ekranda gösterilecek slayt sayısı
+
+		function showSlides() {
+			// Tüm slaytları gizle
+			slides.forEach(slide => {
+				slide.style.display = 'none';
+			});
+
+			// Gösterilecek slaytları belirle ve görünür yap
+			for (let i = 0; i < slidesToShow; i++) {
+				let index = (slideIndex + i) % totalSlides;
+				slides[index].style.display = 'block';
+			}
+		}
+
+		function nextSlide() {
+			slideIndex = (slideIndex + 1) % totalSlides;
+			showSlides();
+		}
+
+		function prevSlide() {
+			slideIndex = (slideIndex - 1 + totalSlides) % totalSlides;
+			showSlides();
+		}
+
+		function autoSlide() {
+			nextSlide();
+		}
+
+		setInterval(autoSlide, 3000); // Otomatik geçiş için 5 saniyede bir
+		showSlides(); // Sayfa yüklendiğinde slaytları göster
+	</script>
+
+
+
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-doughnutlabel@1.0.0/dist/chartjs-plugin-doughnutlabel.min.js"></script>
+
+
+
+</body>
+
+</html>
+

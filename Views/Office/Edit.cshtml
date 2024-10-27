@@ -1,0 +1,60 @@
+﻿@model Office
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Ofis Düzenleme Sayfası</h1>
+
+<h4>Ofis</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+           
+            <div class="form-group">
+                <label asp-for="OfficeName" class="control-label"></label>
+                <span asp-validation-for="OfficeName" class="text-danger field-validation-error"></span>
+                <input asp-for="OfficeName" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="Location" class="control-label"></label>
+                <span asp-validation-for="Location" class="text-danger field-validation-error"></span>
+                <input asp-for="Location" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="RecommendLocation" class="control-label"></label>
+                <span asp-validation-for="RecommendLocation" class="text-danger"></span>
+                <input asp-for="RecommendLocation" class="form-control" />
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="State" class="control-label"></label>
+                <span asp-validation-for="State" class="text-danger field-validation-error"></span>
+                <input asp-for="State" class="form-control" />
+              
+            </div>
+            <div class="form-group">
+                <label asp-for="Content" class="control-label"></label>
+                <span asp-validation-for="Content" class="text-danger field-validation-error"></span>
+                <input asp-for="Content" class="form-control" />
+                
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Kaydet" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye dön</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

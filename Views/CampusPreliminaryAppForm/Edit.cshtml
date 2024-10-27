@@ -1,0 +1,132 @@
+﻿@using System.ComponentModel.DataAnnotations
+@using Teknokent.Data.Enums
+@model Teknokent.Models.CampusPreliminaryAppForm
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Yerleşke Ön Başvuru Formu Düzenleme Sayfası</h1>
+
+<h4>Yerleşke Ön Başvuru Formu</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <span asp-validation-for="Name" class="text-danger field-validation-error"></span>
+                <input asp-for="Name" class="form-control" />
+              
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label"></label>
+                <span asp-validation-for="Surname" class="text-danger field-validation-error"></span>
+                <input asp-for="Surname" class="form-control" />
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <span asp-validation-for="Phone" class="text-danger field-validation-error"></span>
+                <input asp-for="Phone" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <span asp-validation-for="Email" class="text-danger field-validation-error"></span>
+                <input asp-for="Email" class="form-control" />
+                
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="hasCompany" /> @Html.DisplayNameFor(model => model.hasCompany)
+                </label>
+                <span asp-validation-for="hasCompany" class="text-danger field-validation-error"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TitleCompany" class="control-label"></label>
+                <input asp-for="TitleCompany" class="form-control" />
+                <span asp-validation-for="TitleCompany" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TaxNumber" class="control-label"></label>
+                <input asp-for="TaxNumber" class="form-control" />
+                <span asp-validation-for="TaxNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TaxAdministration" class="control-label"></label>
+                <input asp-for="TaxAdministration" class="form-control" />
+                <span asp-validation-for="TaxAdministration" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Campus, "Kampüs")
+                <select asp-for="Campus" class="form-control">
+                    @foreach (var value in Enum.GetValues(typeof(Campus)))
+                    {
+                        var displayAttribute = typeof(Campus).GetMember(value.ToString())[0]
+                        .GetCustomAttributes(typeof(DisplayAttribute), false)
+                        .SingleOrDefault() as DisplayAttribute;
+
+                        var displayName = displayAttribute != null ? displayAttribute.Name : value.ToString();
+
+                        <option value="@value">@displayName</option>
+                    }
+                    @Html.ValidationMessageFor(model => model.Campus)
+                </select>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.wantSection, "Yer almak istenilen bölüm")
+                <select asp-for="wantSection" class="form-control">
+                    @foreach (var value in Enum.GetValues(typeof(WantSection)))
+                    {
+                        var displayAttribute = typeof(WantSection).GetMember(value.ToString())[0]
+                        .GetCustomAttributes(typeof(DisplayAttribute), false)
+                        .SingleOrDefault() as DisplayAttribute;
+
+                        var displayName = displayAttribute != null ? displayAttribute.Name : value.ToString();
+
+                        <option value="@value">@displayName</option>
+                    }
+                    @Html.ValidationMessageFor(model => model.wantSection)
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="wantSpace" class="control-label"></label>
+                <span asp-validation-for="wantSpace" class="text-danger field-validation-error"></span>
+                <input asp-for="wantSpace" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="wantWorker" class="control-label"></label>
+                <span asp-validation-for="wantWorker" class="text-danger field-validation-error"></span>
+                <input asp-for="wantWorker" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="wantSupportWorker" class="control-label"></label>
+                <span asp-validation-for="wantSupportWorker" class="text-danger field-validation-error"></span>
+                <input asp-for="wantSupportWorker" class="form-control" />
+               
+            </div>
+            <div class="form-group">
+                <label asp-for="wantOutOfScopeWorker" class="control-label"></label>
+                <span asp-validation-for="wantOutOfScopeWorker" class="text-danger field-validation-error"></span>
+                <input asp-for="wantOutOfScopeWorker" class="form-control" />
+                
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Kaydet" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye dön</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

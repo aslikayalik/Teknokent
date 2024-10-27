@@ -1,0 +1,167 @@
+﻿@{
+    Layout = null;
+}
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AdminPage</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="~/css/bootswatchTheme.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Teknokent.styles.css" asp-append-version="true" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.3/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-beta1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-toggleable-sm navbar-light bg-indigo border-bottom box-shadow mb-3 flex-column">
+            <div class="container-fluid">
+                <br />
+
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+
+                   
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">
+                                Ana Sayfa
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Company" asp-action="Index">
+                                Şirketler
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" id="articleDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Makale
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="articleDropdown">
+                                    <li><a class="dropdown-item" asp-controller="Article" asp-action="Index">Yazılar</a></li>
+                                    <li><a class="dropdown-item" asp-controller="BoardOfMember" asp-action="Index">Kurul üyeleri</a></li>
+                                    <li><a class="dropdown-item" asp-controller="CampusPreliminaryAppForm" asp-action="Index">Ön Yerleşke Başvuru Formu</a></li>
+                                    <li><a class="dropdown-item" asp-controller="CareerPosting" asp-action="Index">İş Başvuruları</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Cv" asp-action="Index">Cv</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" id="careerDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Kariyer
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="careerDropdown">
+                                    <li><a class="dropdown-item" asp-controller="Event" asp-action="Index">Etkinlik</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Faq" asp-action="Index">SSS</a></li>
+                                    <li><a class="dropdown-item" asp-controller="GeneralInformation" asp-action="Index">genel Bilgiler</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Legislation" asp-action="Index">Mevzuat</a></li>
+                                    <li><a class="dropdown-item" asp-controller="ManagementOffice" asp-action="Index">Yönetici Ofisi</a></li>
+
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" id="eventDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Olaylar
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="eventDropdown">
+                                    <li><a class="dropdown-item" asp-controller="Office" asp-action="Index">Ofisler</a></li>
+                                    <li><a class="dropdown-item" asp-controller="News" asp-action="Index">Haberler</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Product" asp-action="Index">Ürünler</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Project" asp-action="Index">Projeler</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" id="statisticDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Sayılar
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="statisticDropdown">
+                                    <li><a class="dropdown-item" asp-controller="RefereeRegistration" asp-action="Index">Hakem Kayıt</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Report" asp-action="Index">Raporlar</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Statistic" asp-action="Index">İstatistikler</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Tto" asp-action="Index">Tto</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            <partial name="_Notifications" />
+      
+        </main>
+    </div>
+
+    <!--footer start-->
+    <footer id="footer" class="footer">
+        <div class="container">
+            <div class="footer-menu">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="navbar-header">
+                            <a class="navbar-brand" href="index.cshtml">Adü<span>Teknokent</span></a>
+                        </div><!--/.navbar-header-->
+                    </div>
+
+                </div>
+            </div>
+            <div class="hm-footer-copyright">
+                <div class="row">
+                    <div class="col-sm-5">
+                        <p>
+                            İletişim Bilgileri;
+
+                            <p1>
+                                Adres: Aydın Adnan Menderes Üniversitesi, Kapalı Spor Salonu Yanı, Merkez Kampüsü, Kepez Mevkii Efeler/AYDIN
+
+
+                            </p1>
+
+
+                        </p><!--/p-->
+                    </div>
+                    <div class="col-sm-7">
+                        <div class="footer-social">
+                            <span><i class="fa fa-phone"> 0531 832 19 76</i></span>
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+            </div><!--/.hm-footer-copyright-->
+        </div><!--/.container-->
+
+        <div id="scroll-Top">
+            <div class="return-to-top">
+                <i class="fa fa-angle-up " id="scroll-top" data-toggle="tooltip" data-placement="top" title="" data-original-title="Back to Top" aria-hidden="true"></i>
+            </div>
+
+        </div><!--/.scroll-Top-->
+
+    </footer><!--/.footer-->
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+</body>
+</html>

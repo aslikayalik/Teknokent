@@ -1,0 +1,717 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Teknokent.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Teknokent.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\boardOfMemberImages\\bülentKent.png",
+      "PackagePath": "staticwebassets\\boardOfMemberImages\\bülentKent.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\boardOfMemberImages\\cemalİyem.png",
+      "PackagePath": "staticwebassets\\boardOfMemberImages\\cemalİyem.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\boardOfMemberImages\\gumball.jpg",
+      "PackagePath": "staticwebassets\\boardOfMemberImages\\gumball.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\boardOfMemberImages\\nuhKılıç.png",
+      "PackagePath": "staticwebassets\\boardOfMemberImages\\nuhKılıç.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\boardOfMemberImages\\pp.jpg",
+      "PackagePath": "staticwebassets\\boardOfMemberImages\\pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\boardOfMemberImages\\teknokentLogo.png",
+      "PackagePath": "staticwebassets\\boardOfMemberImages\\teknokentLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\careerPostingLogoImages\\gumball.jpg",
+      "PackagePath": "staticwebassets\\careerPostingLogoImages\\gumball.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\companyLogoImages\\ahlat.png",
+      "PackagePath": "staticwebassets\\companyLogoImages\\ahlat.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\companyLogoImages\\budunai.png",
+      "PackagePath": "staticwebassets\\companyLogoImages\\budunai.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\companyLogoImages\\budunai2.png",
+      "PackagePath": "staticwebassets\\companyLogoImages\\budunai2.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\companyLogoImages\\bushel.png",
+      "PackagePath": "staticwebassets\\companyLogoImages\\bushel.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\companyLogoImages\\enye.png",
+      "PackagePath": "staticwebassets\\companyLogoImages\\enye.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\companyLogoImages\\incir bilişim.png",
+      "PackagePath": "staticwebassets\\companyLogoImages\\incir bilişim.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\companyLogoImages\\nova.png",
+      "PackagePath": "staticwebassets\\companyLogoImages\\nova.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\companyLogoImages\\ovgmakine.png",
+      "PackagePath": "staticwebassets\\companyLogoImages\\ovgmakine.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\companyLogoImages\\robfly.png",
+      "PackagePath": "staticwebassets\\companyLogoImages\\robfly.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\companyLogoImages\\yukademy.png",
+      "PackagePath": "staticwebassets\\companyLogoImages\\yukademy.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\companyLogoImages\\özgür.png",
+      "PackagePath": "staticwebassets\\companyLogoImages\\özgür.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\bootsnav.css",
+      "PackagePath": "staticwebassets\\css\\bootsnav.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\css\\linearicons.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\cvFiles\\DersDetayF5 - CSE402 - Lisans Tezi II.pdf",
+      "PackagePath": "staticwebassets\\cvFiles\\DersDetayF5 - CSE402 - Lisans Tezi II.pdf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\cvFiles\\Resıt Presentatıon Schedule..pdf",
+      "PackagePath": "staticwebassets\\cvFiles\\Resıt Presentatıon Schedule..pdf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\adüLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\adüLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\blog\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\blog\\b2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\blog\\b3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\boardOfMemberImages\\cemalİyem.png",
+      "PackagePath": "staticwebassets\\images\\boardOfMemberImages\\cemalİyem.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\boardOfMemberImages\\gumball.jpg",
+      "PackagePath": "staticwebassets\\images\\boardOfMemberImages\\gumball.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\boardOfMemberImages\\pp.jpg",
+      "PackagePath": "staticwebassets\\images\\boardOfMemberImages\\pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\boardOfMemberImages\\teknokentLogo.png",
+      "PackagePath": "staticwebassets\\images\\boardOfMemberImages\\teknokentLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\boardOfMembers\\pp.jpg",
+      "PackagePath": "staticwebassets\\images\\boardOfMembers\\pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\clients\\c1.png",
+      "PackagePath": "staticwebassets\\images\\clients\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\clients\\c2.png",
+      "PackagePath": "staticwebassets\\images\\clients\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\clients\\c3.png",
+      "PackagePath": "staticwebassets\\images\\clients\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\clients\\c4.png",
+      "PackagePath": "staticwebassets\\images\\clients\\c4.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\counter\\counter-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\counter\\counter-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\counter\\teknokent.jpeg",
+      "PackagePath": "staticwebassets\\images\\counter\\teknokent.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\explore\\e1.jpg",
+      "PackagePath": "staticwebassets\\images\\explore\\e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\explore\\e2.jpg",
+      "PackagePath": "staticwebassets\\images\\explore\\e2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\explore\\e3.jpg",
+      "PackagePath": "staticwebassets\\images\\explore\\e3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\explore\\e4.jpg",
+      "PackagePath": "staticwebassets\\images\\explore\\e4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\explore\\e5.jpg",
+      "PackagePath": "staticwebassets\\images\\explore\\e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\explore\\e6.jpg",
+      "PackagePath": "staticwebassets\\images\\explore\\e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\explore\\foto1.png",
+      "PackagePath": "staticwebassets\\images\\explore\\foto1.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\explore\\person.png",
+      "PackagePath": "staticwebassets\\images\\explore\\person.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\logo\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\logo\\logo3.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\logo\\logo4.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\undraw_remotely_2j6y.svg",
+      "PackagePath": "staticwebassets\\images\\undraw_remotely_2j6y.svg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\images\\welcome-hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\welcome-hero\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\js\\bootsnav.js",
+      "PackagePath": "staticwebassets\\js\\bootsnav.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\js\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\legislationFiles\\4691 SAYILI TEKNOLOJİ GELİŞTİRME BÖLGELERİ.pdf",
+      "PackagePath": "staticwebassets\\legislationFiles\\4691 SAYILI TEKNOLOJİ GELİŞTİRME BÖLGELERİ.pdf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\legislationFiles\\DersDetayF5 - CSE402 - Lisans Tezi II.pdf",
+      "PackagePath": "staticwebassets\\legislationFiles\\DersDetayF5 - CSE402 - Lisans Tezi II.pdf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\legislationFiles\\DownloadFile.pdf",
+      "PackagePath": "staticwebassets\\legislationFiles\\DownloadFile.pdf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\managementOfficeImages\\erolGaniz.png",
+      "PackagePath": "staticwebassets\\managementOfficeImages\\erolGaniz.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\managementOfficeImages\\fatihUlutaş.png",
+      "PackagePath": "staticwebassets\\managementOfficeImages\\fatihUlutaş.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\managementOfficeImages\\gumball.jpg",
+      "PackagePath": "staticwebassets\\managementOfficeImages\\gumball.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\managementOfficeImages\\gözdeDemir.png",
+      "PackagePath": "staticwebassets\\managementOfficeImages\\gözdeDemir.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\managementOfficeImages\\mehnurKeçecioğlu.png",
+      "PackagePath": "staticwebassets\\managementOfficeImages\\mehnurKeçecioğlu.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\managementOfficeImages\\mustafaAkkaya.png",
+      "PackagePath": "staticwebassets\\managementOfficeImages\\mustafaAkkaya.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\managementOfficeImages\\seyhanBaşarır.png",
+      "PackagePath": "staticwebassets\\managementOfficeImages\\seyhanBaşarır.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\managementOfficeImages\\sinanTekin.png",
+      "PackagePath": "staticwebassets\\managementOfficeImages\\sinanTekin.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\managementOfficeImages\\yasinDanyal.png",
+      "PackagePath": "staticwebassets\\managementOfficeImages\\yasinDanyal.png"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\reportFiles\\2017 YILI FAALİYET RAPORU.pdf",
+      "PackagePath": "staticwebassets\\reportFiles\\2017 YILI FAALİYET RAPORU.pdf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\reportFiles\\2018YILI FAALİYET RAPORU .pdf",
+      "PackagePath": "staticwebassets\\reportFiles\\2018YILI FAALİYET RAPORU .pdf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\reportFiles\\2019 YILI FAALİYET RAPORU.pdf",
+      "PackagePath": "staticwebassets\\reportFiles\\2019 YILI FAALİYET RAPORU.pdf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\reportFiles\\2020 YILI FAALİYET RAPORU.pdf",
+      "PackagePath": "staticwebassets\\reportFiles\\2020 YILI FAALİYET RAPORU.pdf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\reportFiles\\2021 YILI FAALİYET RAPORU GENİŞ.pdf",
+      "PackagePath": "staticwebassets\\reportFiles\\2021 YILI FAALİYET RAPORU GENİŞ.pdf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\reportFiles\\DownloadFile.pdf",
+      "PackagePath": "staticwebassets\\reportFiles\\DownloadFile.pdf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\ttoFiles\\DownloadFile.pdf",
+      "PackagePath": "staticwebassets\\ttoFiles\\DownloadFile.pdf"
+    },
+    {
+      "Id": "C:\\Users\\kayal\\source\\repos\\Teknokent\\Teknokent\\wwwroot\\videos\\teknokent1.mp4",
+      "PackagePath": "staticwebassets\\videos\\teknokent1.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Teknokent.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Teknokent.props",
+      "PackagePath": "build\\Teknokent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Teknokent.props",
+      "PackagePath": "buildMultiTargeting\\Teknokent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Teknokent.props",
+      "PackagePath": "buildTransitive\\Teknokent.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

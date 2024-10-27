@@ -1,0 +1,56 @@
+﻿@model IEnumerable<GeneralInformation>
+
+@{
+    ViewData["Title"] = "IndexE";
+    Pager pager = new Pager();
+
+    int pageNo = 0;
+
+    if (ViewBag.Paper != null)
+    {
+        pager = ViewBag.Paper;
+        pageNo = pager.CurrentPage;
+    }
+}
+
+<h1>IndexE</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.GIName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GIContent)
+            </th>
+         
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.GIName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GIContent)
+            </td>
+         
+        </tr>
+}
+    </tbody>
+</table>
+
+@if ((int)ViewBag.TotalPages > 1)
+{
+    <ul class="pagination justify-content-end">
+        @for (var p = 1; p <= (int)ViewBag.TotalPages; p++)
+        {
+            <li class="page-item @(p == (int)ViewBag.CurrentPage ? "active" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = p })">@p</a>
+            </li>
+        }
+    </ul>
+}

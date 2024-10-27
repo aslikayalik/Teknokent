@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Legislation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Mevzuat Listesi</h1>
+
+<p>
+    <a asp-action="Create">Yeni Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LegislationName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Link)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FilePath)
+            </th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LegislationName)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Link)
+                </td>
+
+                @if (!string.IsNullOrEmpty(item.FilePath))
+                {
+                    <td>
+
+                        <a asp-action="DownloadFile" asp-route-filePath="@item.FilePath">@item.FilePath.Split('\\').Last()</a>
+                    
+                </td>
+                }
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Link)
+                </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Düzenle</a> |
+               
+                <a asp-action="Delete" asp-route-id="@item.Id">Sil</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

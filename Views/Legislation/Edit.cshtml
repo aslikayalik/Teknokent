@@ -1,0 +1,42 @@
+﻿@model Legislation
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Mevzuat Düzenleme Sayfası</h1>
+
+<h4>Mevzuat</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="LegislationName" class="control-label"></label>
+                <span asp-validation-for="LegislationName" class="text-danger field-validation-error"></span>
+                <input asp-for="LegislationName" class="form-control" />
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="Link" class="control-label"></label>
+                <input asp-for="Link" class="form-control" />
+                <span asp-validation-for="Link" class="text-danger "></span>
+
+            </div>
+       
+            <div class="form-group">
+                <input type="submit" value="Kaydet" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye dön</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
